@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forged - A Simple Blog</title>
+    <link rel="icon" type="image/x-icon" href="icon.ico">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <a href="#app-content" class="skip-link">Skip to main content</a>
+    <div class="container">
+        <header>
+            <h1 class="site-title"><a href="#/" aria-label="Forged Homepage">Forged</a></h1>
+            <nav id="main-nav">
+                <a href="#/" class="nav-link" data-route="home">Home</a>
+                <a href="#/about" class="nav-link" data-route="about">About</a>
+                <a href="#/contact" class="nav-link" data-route="contact">Contact</a>
+                <div class="search-container">
+                    <input type="search" id="search-input" placeholder="Search..." aria-label="Search posts">
+                    <button id="search-clear-button" class="search-clear-button" aria-label="Clear search" style="display:none;">&times;</button>
+                </div>
+                <button id="theme-toggle" class="theme-toggle-button" aria-label="Switch to Dark Theme" aria-pressed="false">
+                    <svg id="sun-icon" class="theme-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                    <svg id="moon-icon" class="theme-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </button>
+                <span id="theme-announcer" class="visually-hidden" aria-live="polite"></span>
+            </nav>
+        </header>
+
+        <div class="main-content-area">
+            <main id="app-content" aria-live="polite" tabindex="-1">
+                <p class="loading-message">Loading...</p>
+            </main>
+
+            <aside class="sidebar">
+                <section class="discord-widget-section" aria-labelledby="discord-widget-heading">
+                    <h2 id="discord-widget-heading"><a href="https://discord.gg/jvsssRdc" target="_blank" rel="noopener noreferrer">Join our Community</a></h2>
+                    <div id="discord-custom-info">
+                        <p>Loading server details...</p>
+                    </div>
+                    <div class="discord-iframe-container">
+                        <iframe src="https://discord.com/widget?id=1374137227571105904&theme=dark" title="Discord Server Widget" width="300" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                    </div>
+                </section>
+                 <section class="recent-posts-sidebar" aria-labelledby="recent-posts-heading">
+                    <h2 id="recent-posts-heading">Recent Posts</h2>
+                    <ul id="recent-posts-links">
+                    </ul>
+                </section>
+            </aside>
+        </div>
+
+        <footer>
+            <p>&copy; <span id="current-year"></span> Forged. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
