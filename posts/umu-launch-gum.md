@@ -7,7 +7,7 @@ slug: umu-launch-gum-tui-launcher
 featured: true
 ---
 
-UMU-Launch-Gum is a script providing a Terminal User Interface (TUI) using `gum` to launch Windows games on Linux via `umu-launcher`, featuring a game library feature for easy access to your favorite titles.
+[UMU-Launch-Gum](https://github.com/fernbacher/umu-launch-gum) is a script providing a Terminal User Interface (TUI) using `gum` to launch Windows games on Linux via `umu-launcher`, featuring a game library feature for easy access to your favorite titles.
 
 ![UMU-Launch-Gum Preview](assets/img/umu/preview.gif)
 
