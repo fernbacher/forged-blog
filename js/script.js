@@ -468,18 +468,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const handleRouteChange = () => {
         const hash = window.location.hash;
         
-        if (searchInput && searchInput.value.trim() !== '' && (hash !== '#/' && hash !== '')) {
-        } else {
-            if (searchInput) searchInput.value = '';
-            if (searchClearButton) searchClearButton.style.display = 'none';
-            isSearchActive = false;
-        }
-
-        if (isSearchActive && searchInput && searchInput.value.trim() !== '') {
-            performSearch(searchInput.value.trim());
-            updateActiveNavLink('');
-            return; 
-        }
+        if (searchInput) searchInput.value = '';
+        if (searchClearButton) searchClearButton.style.display = 'none';
+        isSearchActive = false; 
         
         appContent.innerHTML = `<p class="loading-message">Loading...</p>`; 
         let currentRoute = 'home';
