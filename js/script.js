@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const POST_FILENAMES = [
         'piracy.md',
         'customwindows.md'
+        'windowsnplaybook.md'
     ];
 
     const applyTheme = (theme) => {
