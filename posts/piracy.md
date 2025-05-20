@@ -22,19 +22,17 @@ featured: true
 
 ## Games
 
-* **[DigitalZone](https://digitalzone.vercel.app/games)**: Portable versions of popular repacks, run by a cs.rin.ru forum member.
+* **[Ascendara](https://ascendara.app/)**: Simplifies your pirating experience by providing a seamless way to download, manage, and play the pre-installed games.
+* **[Hydra](https://github.com/hydralauncher/hydra)**: Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
 * **[GameDrive](https://gamedrive.org)**: Direct links, run by a cs.rin.ru forum member.
 * **[gamebounty](https://gamebounty.world/)**: Direct links hosted on good file-hosters, games are in parts.
-* **[Hydra](https://github.com/hydralauncher/hydra)**: Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
 * **[Torrminatorr](https://torrminatorr.com/)**: Huge collection of games including GOG, Scene, 0Day, Retro and Linux.
 * **[KaosKrew](https://kaoskrew.org/)**: Torrents and direct links.
-* **[Gnarly Repacks](https://rentry.org/gnarly_repacks)**: Repacks for PC and Emulation, mainly older stuff. (Note: original link text was "Gnarly")
-* **[Another Website To Download Games](https://awtdg.site)**: Premier destination in the boundless universe of digital gaming.
 * **[Steam-RIP](https://steamrip.com/)**: Pre-Installed games.
-* **[CPG Repacks](https://cpgrepacks.site/)**: Repacks for Anime, Japanese games. (Note: original link text was "CPG")
+* **[CPG Repacks](https://cpgrepacks.site/)**: Repacks for Anime, Japanese games.
 * **[GLOAD](https://gload.to/)**: Scene release site, offers plenty of free-user friendly hosters.
 * **[OldGamesDownload](https://oldgamesdownload.com/)**: Many abandonware classics for a lot of systems.
-* **[GOG-Games](https://www.gog-games.to)** (sometimes TOR only) / **[Free GOG PC](https://freegogpcgames.com)**: Official GOG releases.
+* **[GOG-Games](https://www.gog-games.to)** / **[Free GOG PC](https://freegogpcgames.com)**: Official GOG releases.
 * **[Gamdie](https://gamdie.com)**: Specific for indie games.
 * **[Online-Fix](https://online-fix.me)**: Pirated games with online support.
 
@@ -49,10 +47,10 @@ featured: true
 ## Mobile
 
 * **[Mobilism](https://forum.mobilism.org/index.php)**
-* **[FileCR (Android)](https://filecr.com/android/?id=368775758650)** (Note: original link text was "FileCR")
-* **[ModdedCentral (Telegram)](https://t.me/ModdedCentral)** / **[Revdl](https://www.revdl.com)** (Note: original link text was "ModdedCentral / Revdl")
-* **[julioverne (iOS tweaks)](https://julioverne.github.io)**: For iPhones. (Note: original link text was "julioverne")
-* **[Android FOSS (GitHub)](https://github.com/offa/android-foss)** (Note: original link text was "Android FOSS")
+* **[FileCR (Android)](https://filecr.com/android/?id=368775758650)**
+* **[ModdedCentral (Telegram)](https://t.me/ModdedCentral)** / **[Revdl](https://www.revdl.com)**
+* **[julioverne (iOS tweaks)](https://julioverne.github.io)**: For iPhones.
+* **[Android FOSS (GitHub)](https://github.com/offa/android-foss)**
 
 ## Software
 
@@ -64,10 +62,9 @@ featured: true
 
 ## Windows
 
-* **[ggOS (Discord)](https://discord.gg/ggos)**: Gaming and latency focused modification of Windows 10 20h2. (Note: original link text was "ggOS")
 * **[AtlasOS](https://atlasos.net/)**: Gaming and latency focused modification of Windows 10 20h2.
-* **[XOS (Discord)](https://discord.gg/XTYEjZNPgX)**: Windows 10 22h2 and 1803 modifications, **NO FORTNITE QUESTIONS**. (Note: original link text was "XOS")
-* **[Revision (ReviOS)](https://revi.cc)**: Less stripped, based on Windows 11, way more general user friendly. (Note: original link text was "Revision")
+* **[XOS (Discord)](https://discord.gg/XTYEjZNPgX)**: Windows 10 22h2 and 1803 modifications, **NO FORTNITE QUESTIONS**.
+* **[Revision (ReviOS)](https://revi.cc)**: Less stripped, based on Windows 11, way more general user friendly.
 
 ## Music
 
@@ -105,18 +102,15 @@ featured: true
 ## Other
 
 * **[SpotX (GitHub)](https://github.com/amd64fox/SpotX)**: Modified Spotify Client for Windows. (Note: original link text was "SpotX")
-* **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / **[Adnauseam](https://adnauseam.io/)**: Best adblocker + its alternative which is based on it. (Note: original link text was "uBlock")
-* **[FastForward (GitHub)](https://github.com/FastForwardTeam/FastForward)**: FastForward automatically skips annoying link shorteners. (Note: original link text was "FastForward")
+* **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** / **[Adnauseam](https://adnauseam.io/)**: Best adblocker + its alternative which is based on it.
 * **[Playnite](https://playnite.link)** / **[GOG-Galaxy](https://www.gog.com/galaxy)**: Universal game launchers for Windows.
 * **[FontsHub](https://fontshub.pro)**: Obtain fonts to create headlines, quotations, paragraphs, lists, and other text components for your design projects.
 * **[MAS (GitHub)](https://github.com/massgravel/Microsoft-Activation-Scripts)**: Easy Windows activation. (Note: original link text was "MAS")
 * **[Mediafire](https://www.mediafire.com)** / **[Wormhole](https://wormhole.app)** / **[Fireload](https://www.fireload.com)**: File sharing and hosting.
     * Mediafire is no expiration hosting, same as Fireload.
     * Wormhole is Temp Sharing for 24 hours.
-* **[teledrive](https://teledriveapp.com)** / **[Filen](https://filen.io)** / **[terabox](https://www.terabox.com)**: File storage.
-    * Teledrive is unlimited.
-    * Filen is 10GB limit.
-    * TeraBox is 1TB limit.
+* **[Filen](https://filen.io)**
+    * 10GB limit.
 * **[Proton](https://proton.me)**: Mail, calendar, drive and a great **free** VPN.
     * Service is free but can be better by paying a monthly subscription.
 
