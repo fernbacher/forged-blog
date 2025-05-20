@@ -15,7 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const POST_FILENAMES = [
         'piracy.md',
         'customwindows.md',
-        'how-to-install-windows-using-uupdump.md'
+        'how-to-install-windows-using-uupdump.md',
+        'how-to-install-frame-generation-mods.md'
     ];
 
     const applyTheme = (theme) => {
