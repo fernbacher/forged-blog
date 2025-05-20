@@ -1,7 +1,7 @@
 ---
 title: "How to install Windows using UUPDump"
 date: 2024-04-27
-author: Anonymous
+author: Fernbacher
 snippet: "A guide on installing Windows using UUPDump.net, downloading specific ISOs, and keeping your data safe, plus a bonus section on customization."
 slug: how-to-install-windows-using-uupdump
 featured: false
