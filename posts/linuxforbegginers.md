@@ -115,7 +115,7 @@ You'll use the terminal. It's powerful. Basics for software:
 -   Search: `dnf search search_term`
     *(Note: Bazzite uses `rpm-ostree` for core system updates, but `dnf` is used in toolboxes/containers like `toolbox` or `distrobox`.)*
 
-## Real Talk FAQs
+## FAQs
 
 1.  **Terminal: Mandatory?**
     Not for every click on friendly distros. But to get the most out of Linux and troubleshoot? Yes. Learn basic commands. It's easier than it looks.
