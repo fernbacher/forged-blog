@@ -142,8 +142,8 @@ You'll use the terminal. It's powerful. Basics for software:
 10. **Okay, really, which Distro for a newbie?**
     -   **Easy & Familiar:** Linux Mint.
     -   **Modern & Gamer-Friendly (NVIDIA easy mode):** Pop!_OS.
-    -   **Gaming Powerhouse (Fedora-based, immutable):** Bazzite.
-    -   **If you like to tinker & learn from the start:** Arch Linux (use `archinstall`).
+    -   **Gaming focused:** Bazzite.
+    -   **If you like to tinker & learn from the start:** Arch Linux.
 11. **How to extract `.tar` files?**
     -   Usually: `tar -xf your_archive.tar.extension`
     -   Specifics: `.gz` -> `tar -xzvf f.tar.gz` | `.bz2` -> `tar -xjvf f.tar.bz2` | `.xz` -> `tar -xJvf f.tar.xz` | `.zst` -> `tar -I'zstd -d' -xvf f.tar.zst`
