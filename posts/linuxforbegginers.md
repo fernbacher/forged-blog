@@ -42,7 +42,7 @@ The kernel is Linux's engine. Your distro's default is most usually certainly fi
 
 -   **[Linux-Zen](https://github.com/zen-kernel/zen-kernel)** (often packaged as **[Liquorix](https://liquorix.net)**): Tuned for desktop & gaming responsiveness.
 -   **[XanMod](https://xanmod.org)**: Aims for a very smooth desktop, popular for gaming.
--   **[Linux-CachyOS Kernels](https://wiki.cachyos.org/cachyos-kernel/cachyos-kernel/)**: Highly optimized for performance with advanced schedulers and compiler tweaks.
+-   **[Linux-CachyOS Kernels](https://wiki.cachyos.org/features/kernel/)**: Highly optimized for performance with advanced schedulers and compiler tweaks.
 -   **[Linux-TKG](https://github.com/Frogging-Family/linux-tkg)**: Build your *own* gaming-focused kernel. Very DIY.
 -   **[DIY Kernel (Example)](https://youtu.be/NVWVHiLx1sU)**: Outdated video but a good base.
 
