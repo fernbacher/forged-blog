@@ -34,7 +34,7 @@ A "distro" is just a Linux version with a specific setup. Don't overthink it; pi
 ### Other Solid Choices Worth Knowing:
 
 -   **[Debian](https://www.debian.org/)**: Rock-solid, powers many other distros, and committed to free software. Great for servers and desktops.
--   **[Devuan](https://www.devuan.org/) / [Artix Linux](https://artixlinux.org/)**: Debian/Arch, but without `systemd`, if you prefer to explore alternatives. ([Some thoughts on systemd](https://ebin.city/~werwolf/posts/systemd-sucks/)).
+-   **[Devuan](https://www.devuan.org/) / [Artix Linux](https://artixlinux.org/)**: Debian/Arch, but without `systemd`, if you prefer to explore alternatives. ([Some thoughts on systemd](https://codeberg.org/werwolf/blog/src/branch/main/systemd-sucks.md)).
 
 ## Custom Kernels
 
@@ -53,7 +53,7 @@ Your distro comes with basics. Here are some popular additions:
 ### Web Browsers
 -   **[Firefox](https://www.mozilla.org/firefox/new/)**: Solid, open-source, often pre-installed.
 -   **[Zen Browser](https://zen-browser.app/)**: A minimalist, privacy-respecting web browser.
--   **[Brave Browser](https://brave.com/)**: Focuses on privacy with built-in ad-blocking.
+-   **[Brave Browser](https://brave.com/)**: Focuses on privacy with built-in ad-blocking, although [controversial](https://codeberg.org/werwolf/blog/src/branch/main/brave-is-shit.md).
 -   **[Vivaldi](https://vivaldi.com/)**: Highly customizable with many built-in features.
 
 ### Office Suites
