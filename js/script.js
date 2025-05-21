@@ -17,7 +17,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'customwindows.md',
         'how-to-install-windows-using-uupdump.md',
         'how-to-install-frame-generation-mods.md',
-        'umu-launch-gum.md'
+        'umu-launch-gum.md',
+        'linuxforbegginers.md'
     ];
 
     const applyTheme = (theme) => {
