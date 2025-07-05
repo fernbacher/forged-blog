@@ -1,10 +1,10 @@
 ---
-title: "Forged NTLite 24H2"
+title: "Forged NTLite"
 date: 2025-07-05
 author: Fernbacher
-snippet: "A custom Windows 11 24H2 ntlite.xml for debloating and a Post-Installation script optimized for gaming performance, with bloatware removed and privacy/performance tweaks applied."
-slug: forged-windows-11-ntlite
+slug: forged-ntlite
 featured: true
+snippet: "A custom Windows 11 24H2 ntlite.xml for debloating and a Post-Installation script optimized for gaming performance, with bloatware removed and privacy/performance tweaks applied."
 ---
 
 **Forged Windows 11** is a stripped-down, aggressively optimized Windows 11 24H2 image for gaming and other dedicated PCs. It uses NTLite to remove dozens of built-in apps and features, then runs a post-install script to disable telemetry and system services.
