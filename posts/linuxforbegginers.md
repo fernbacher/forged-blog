@@ -3,7 +3,7 @@ title: "Linux for Beginners"
 date: 2025-05-21
 author: Fernbacher
 slug: linux-for-beginners
-featured: true
+featured: false
 snippet: "A simple and direct guide to Linux."
 ---
 
