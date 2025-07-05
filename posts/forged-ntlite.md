@@ -53,4 +53,4 @@ These changes are intended for isolated, non-production use — many security pr
 ---
 
 For full details and source code, visit the  
-👉 [**fernbacher/Forged-NTLite** on GitHub](https://github.com/fernbacher/Forged-NTLite)
+[**fernbacher/Forged-NTLite** repository on GitHub](https://github.com/fernbacher/Forged-NTLite)
