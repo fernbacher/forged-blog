@@ -49,7 +49,7 @@ These changes are intended for isolated, non-production use — many security pr
 4. **Run the Optimization Script**:  
    Log in as the first user and run `Forge-PostInstall.ps1` as administrator. The script applies all remaining tweaks and then reboots the system. After reboot, your system is in its final "Forged" state.
 
-> ⚠️ This build is **for advanced users only**. You assume all risks — these tweaks disable many security features and updates. Do **not** use on machines that require ongoing security or compatibility.
+ This build is **for advanced users only**. You assume all risks — these tweaks disable many security features and updates. Do **not** use on machines that require ongoing security or compatibility.
 
 ---
 
